@@ -1,0 +1,888 @@
+ ./Stack2
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =0
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =1
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =2
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =3
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =4
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =5
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =6
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =7
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =8
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =9
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =10
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =11
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =12
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =13
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =14
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =15
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =16
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =17
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =18
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =19
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =20
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =21
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =22
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =23
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =24
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =25
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =26
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =27
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =28
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =29
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =30
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =31
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 30
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 29
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 28
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 27
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 26
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 25
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 24
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 23
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 22
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 21
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 20
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 19
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 18
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 17
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 16
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 15
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 14
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 13
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 12
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 11
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 10
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 9
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 8
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 7
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 6
+Enter option
+1 Push
+2 Pop
+3 Exit
+22
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 5
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 4
+Enter option
+1 Push
+2 Pop
+3 Exit
+
+2
+
+Top = 3
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 2
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 1
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = 0
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -1
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -2
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -3
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -4
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -5
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -6
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -7
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -8
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -9
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -10
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -11
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -12
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -13
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+22
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+
+22
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -14
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -15
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -16
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -17
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -18
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -19
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -20
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -21
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -22
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+22
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+2
+
+Top = -23
+Undeflow
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-22
+Enter option
+1 Push
+2 Pop
+3 Exit
+111
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+
+1
+
+Top =-21
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-20
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-19
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-18
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-17
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-16
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-15
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-14
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-13
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-12
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-11
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-10
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-9
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-8
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-7
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-6
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-5
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-4
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-3
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-2
+Enter option
+1 Push
+2 Pop
+3 Exit
+11
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =-1
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =0
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =1
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =2
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =3
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =4
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =5
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =6
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =7
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Top =8
+Enter option
+1 Push
+2 Pop
+3 Exit
+3
